@@ -1,5 +1,10 @@
-if placeid == 9825515356 then
+if placeid == 9825515356 then -- Da Hood
+--Loadstring
 
-elseif placeid == 2788229376 then
+elseif placeid == 2788229376 then -- Hood Modded
+--Loadstring
 
-elseif placeid == then
+elseif placeid == 12345 then -- Hood Customs
+--Loadstring
+
+--[[I will Maybe add more later on]]--
